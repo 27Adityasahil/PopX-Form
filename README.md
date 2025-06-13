@@ -4,4 +4,5 @@
 
 ## Welcome Page
 
-![Welcome Page](https://github.com/user-attachments/assets/81e59eb7-7a80-49ba-adfc-dfa8026141a6)
+![Welcome Page](https://github.com/user-attachments/assets/819b0a49-c377-4a80-bedb-3d5a4b96f9d2)
+
